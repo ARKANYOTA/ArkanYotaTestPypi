@@ -8,9 +8,9 @@ setup(
   author = 'ARKANYOTA',                   # Type in your name
   author_email = 'lesarktime@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/ARKANYOTA',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/ARKANYOTA/ArkanYotaGame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/ARKANYOTA/ArkanYotaTestPypi/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['Test', 'Upload', 'Pypi'],   # Keywords that define your package best
-  #install_requires=[''],
+  install_requires=[''],
   classifiers=[
     'Development Status :: 3 - Alpha',
     'Intended Audience :: Developers',
