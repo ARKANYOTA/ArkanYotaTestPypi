@@ -1,4 +1,4 @@
-class PRINTHELLO:
+class Print:
   def Hello():
     print("HELLO")
   
