@@ -1,0 +1,4 @@
+class PRINTHELLO:
+  def Hello():
+    print("HELLO")
+  
